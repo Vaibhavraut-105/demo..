@@ -1,3 +1,4 @@
 # demo..
-this is my 1st project
-author - vaibhav raut
+this is my 1st project.
+<br>
+Author - vaibhav raut
